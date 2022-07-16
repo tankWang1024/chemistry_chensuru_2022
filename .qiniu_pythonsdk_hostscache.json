@@ -1,0 +1,1 @@
+{"http: ": {"upHosts": ["http://up.qiniu.com", "http://upload.qiniu.com", "-H up.qiniu.com "], "ioHosts": ["http://"], "deadline": 1621314742}}
